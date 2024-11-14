@@ -4,6 +4,6 @@ I have a few projects that I am working on such as 3d games with unity and unrea
 I also have some projects with a team that I am working on in school.
 
 
-Some contact information:
+## Some contact information:
 e-mail: toljohan4@gmail.com
 LinkedIn: https://www.linkedin.com/in/johan-tol-0b2b2531b
