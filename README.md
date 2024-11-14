@@ -5,5 +5,5 @@ I also have some projects with a team that I am working on in school.
 
 
 ## Some contact information:
-### e-mail: toljohan4@gmail.com
-### LinkedIn: https://www.linkedin.com/in/johan-tol-0b2b2531b
+#### e-mail: toljohan4@gmail.com
+#### LinkedIn: https://www.linkedin.com/in/johan-tol-0b2b2531b
