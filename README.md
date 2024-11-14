@@ -1,16 +1,9 @@
-### Hi there 👋
+# Hi my name is Johan Tol
+I'm currently learning on talland college with bit academy.
+I have a few projects that I am working on such as 3d games with unity and unreal engine.
+I also have some projects with a team that I am working on in school.
 
-<!--
-**Johndaboy/Johndaboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a 2d game
-- 🌱 I’m currently learning to make websites
-- 👯 I’m looking to collaborate on a game studio
-- 🤔 I’m looking for help with a website about the game
-- 💬 Ask me about what you want
-- 📫 How to reach me: you can add me on instagram or discord
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i'm very energetic
--->
+Some contact information:
+e-mail: toljohan4@gmail.com
+LinkedIn: https://www.linkedin.com/in/johan-tol-0b2b2531b
